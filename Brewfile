@@ -17,13 +17,15 @@ cask "outline-manager"
 cask "slack"
 cask "spectacle"
 cask "visual-studio-code"
-cask "zoomus"
+cask "zoom"
 cask "postman"
+cask "1password"
+cask "whatsapp"
+cask "spectacle"
+cask "visual-studio-code"
 
 brew "coreutils"
 brew "git"
-brew "n"
-brew  "php@7.2"
-brew "yarn"
-
+brew "docker-compose"
 #mas "1Password", id: 443987910
+
