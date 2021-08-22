@@ -3,7 +3,7 @@
 
 
 ## Description
-Simplify approach to manage package and program for new setup machine based on 'brew bundle'
+Simplify approach to manage package and program for new setup machine based on 'brew bundle'.
 
 ## Run
 ```
